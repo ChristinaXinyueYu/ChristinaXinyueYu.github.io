@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Xinyue Yu, Christina"
-title_separator          : "·"
+title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://christinaxinyueyu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -22,13 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "Profile.png"
-  name             : "Xinyue Yu, Christina
-  
-  "
+  name             : "Xinyue Yu, Christina"
   pronouns         : # example: "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
+  bio              : "Undergraduate Student in The University of Hong Kong"
   location         : "Hong Kong SAR"
-  employer         : "The University of Hong Kong"
+  employer         : #"The University of Hong Kong"
   uri              : # URL
   email            : "u3584451@connect.hku.hk" 
 
