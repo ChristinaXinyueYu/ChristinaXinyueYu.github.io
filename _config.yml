@@ -22,7 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "Profile.png"
-  name             : "Xinyue Yu, Christina"
+  name             : "Xinyue Yu, Christina
+  
+  "
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : "Hong Kong SAR"
