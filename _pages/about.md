@@ -49,7 +49,7 @@ Leadership, Activities & Volunteering Experience
 - **Student Ambassador**, Faculty of Science, The University of Hong Kong (Hong Kong SAR), Sept. 2021 -- Present
 - **Vice President & Leader of Training Department**, The University Business Consulting Club, The University of Hong Kong (Hong Kong SAR), Apr. 2023 -- Apr. 2024
 - **Team Member of Audience Favorite**, PwC’s Metaverse Challenge 2023 (Hong Kong SAR), July 2023
-- **New Media Group Member and Social Work Volunteer**, Sunflower Program, Shenzhen Shiyu Children Foundation (Kunming \& Shenzhen, China), July 2018 -- Present
+- **New Media Group Member and Social Work Volunteer**, Sunflower Program, Shenzhen Shiyu Children Foundation (Kunming & Shenzhen, China), July 2018 -- Present
 
 Interests & Certificates
 ------
