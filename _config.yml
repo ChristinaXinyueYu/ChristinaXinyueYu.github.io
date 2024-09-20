@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xinyue Yu, Christina / Personal Website"
+title                    : "Xinyue Yu, Christina"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "Profile.png"
   name             : "Xinyue Yu, Christina"
-
-  
+---
+---  
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : "Hong Kong SAR"
