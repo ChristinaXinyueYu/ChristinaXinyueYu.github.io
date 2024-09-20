@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+# title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,8 +12,8 @@ I am a final year student from [Department of Mathematics](https://hkumath.hku.h
 
 Education
 ------
-- B.Sc. Major in Mathematics, The University of Hong Kong (Hong Kong SAR), Sept. 2021 - June 2025 (Expected)
-- Exchange Student, McGill University (Montreal, Canada), Jan. 2023 - Apr. 2023
+- **B.Sc.** Major in Mathematics, The University of Hong Kong (Hong Kong SAR), Sept. 2021 - June 2025 (Expected)
+- **Exchange Student**, McGill University (Montreal, Canada), Jan. 2023 - Apr. 2023
   
 Research Experience
 ------
@@ -23,7 +23,7 @@ Research Experience
 
 Teaching Experience
 ------
-- **MATH2101 Linear Algebra I**， Teaching Assistant, The University of Hong Kong (Hong Kong SAR), Jan. 2025 – May 2024 (intended)
+- **MATH2101 Linear Algebra I**, Teaching Assistant, The University of Hong Kong (Hong Kong SAR), Jan. 2025 – May 2024 (intended)
 - **MATH1821 Mathematical Methods for Actuarial Science I**, Teaching Assistant, The University of Hong Kong (Hong Kong SAR), Sept. 2024 – Dec. 2024
 - **COMP1117 Computer Programming**, Teaching Assistant, The University of Hong Kong (Hong Kong SAR), Sept. 2023 – Dec. 2023
 
