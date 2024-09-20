@@ -6,8 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About me
-------
+
+
 I am a final year student from [Department of Mathematics](https://hkumath.hku.hk/web/index.php), [The University of Hong Kong](https://www.hku.hk/). 
 
 Education
