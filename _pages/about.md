@@ -3,11 +3,11 @@ permalink: /
 # title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
-#  - /about/
-#  - /about.html
+  - /about/
+  - /about.html
 ---
 About me
-======
+------
 I am a final year student from [Department of Mathematics](https://hkumath.hku.hk/web/index.php), [The University of Hong Kong](https://www.hku.hk/). 
 
 Education
