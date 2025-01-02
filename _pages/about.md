@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a final year student from [Department of Mathematics](https://hkumath.hku.hk/web/index.php), [The University of Hong Kong](https://www.hku.hk/). 
+I am a final year student from [Department of Mathematics](https://hkumath.hku.hk/web/index.php), [The University of Hong Kong](https://www.hku.hk/). I am fortunate to be supervised by [Prof. Tak Kwong Wong](https://hkumath.hku.hk/~takkwong/) from the Department of Mathematics in HKU for my summer research and final year project research.
 
 Education
 ------
@@ -23,7 +23,7 @@ Research Experience
 
 Teaching Experience
 ------
-- **MATH2101 Linear Algebra I**, Teaching Assistant, The University of Hong Kong (Hong Kong SAR), Jan. 2025 – May 2024 (intended)
+- **MATH2822 Mathematical Methods for Actuarial Science II**, Teaching Assistant, The University of Hong Kong (Hong Kong SAR), Jan. 2025 – May 2024 (assigned)
 - **MATH1821 Mathematical Methods for Actuarial Science I**, Teaching Assistant, The University of Hong Kong (Hong Kong SAR), Sept. 2024 – Dec. 2024
 - **COMP1117 Computer Programming**, Teaching Assistant, The University of Hong Kong (Hong Kong SAR), Sept. 2023 – Dec. 2023
 
@@ -36,6 +36,8 @@ Honors, Awards & Membership
   - Young Scientist Scheme Member, 2021-2023
 - **Chinese Mathematical Society**
   - Provincial First Prize in China National High School Mathematics Olympiad, 2020
+- **[Croucher Foundation](https://croucher.org.hk/en/about-us)**
+  - Full sponsorship in the International Science Summer Institute hosted in Weizmann Institute of Science (Israel), 2022
 
 Work Experience
 ------
@@ -47,6 +49,7 @@ Leadership, Activities & Volunteering Experience
 ------
 - **Student Ambassador**, Admission Office, The University of Hong Kong (Hong Kong SAR), Sept. 2021 -- Present
 - **Student Ambassador**, Faculty of Science, The University of Hong Kong (Hong Kong SAR), Sept. 2021 -- Present
+- **Team Member of AI Prototype Design**, HKU Horizons Office & [Agewhale](https://agewhale.com/en-us), Aug. 2024 -- Dec. 2024
 - **Vice President & Leader of Training Department**, [The University Business Consulting Club](https://www.linkedin.com/company/ubcc-hk/), The University of Hong Kong (Hong Kong SAR), Apr. 2023 -- Apr. 2024
 - **Team Member of Audience Favorite**, [PwC’s Metaverse Challenge 2023](https://www.pwchk.com/en/events/metaversechallenge-2023.html) (Hong Kong SAR), July 2023
 - **New Media Group Member and Social Work Volunteer**, [Sunflower Program](https://www.curekids.cn/), [Shenzhen Shiyu Children Foundation](https://www.shiyucapital.com/index.php) (Kunming & Shenzhen, China), July 2018 -- Present
