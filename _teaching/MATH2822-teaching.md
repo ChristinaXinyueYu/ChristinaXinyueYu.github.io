@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/MATH2822-teaching
 venue: "University of Hong Kong, Department of Mathematics"
-date: Jan. 2024 -- May 2024
+date: Jan. 2025 -- May 2025
 location: "Hong Kong SAR"
 ---
 
