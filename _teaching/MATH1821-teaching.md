@@ -15,6 +15,7 @@ location: "Hong Kong SAR"
 
 Revision Book
 ======
+- [Revision Book](../teaching/MATH1821 Revision Book.pdf)
 
 Revision Slides and Answers 
 ======
