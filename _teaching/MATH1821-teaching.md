@@ -16,6 +16,7 @@ location: "Hong Kong SAR"
 Revision Book
 ======
 - [Revision Book](../teaching/MATH1821 Revision Book.pdf)
+  Last updated on Jan.1, 2025.
 
 Revision Slides and Answers 
 ======
