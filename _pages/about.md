@@ -16,6 +16,7 @@ Education
 ------
 - **B.Sc.** Major in Mathematics, The University of Hong Kong (Hong Kong SAR), Sept. 2021 - June 2025 (Expected)
 - **Exchange Student**, McGill University (Montreal, Canada), Jan. 2023 - Apr. 2023
+- **High School Diploma** Major in Science, The High School Affiliated to Yunnan Normal University (Kunming, China), Sept. 2018 - July 2021
   
 Research Experience
 ------
@@ -25,9 +26,9 @@ Research Experience
 
 Teaching Experience
 ------
-- **MATH2822 Mathematical Methods for Actuarial Science II**, Teaching Assistant, The University of Hong Kong (Hong Kong SAR), Jan. 2025 – May 2024 (assigned)
-- **MATH1821 Mathematical Methods for Actuarial Science I**, Teaching Assistant, The University of Hong Kong (Hong Kong SAR), Sept. 2024 – Dec. 2024
-- **COMP1117 Computer Programming**, Teaching Assistant, The University of Hong Kong (Hong Kong SAR), Sept. 2023 – Dec. 2023
+- **MATH2822 Mathematical Methods for Actuarial Science II**, The University of Hong Kong, Spring 2025 (assigned)
+- **MATH1821 Mathematical Methods for Actuarial Science I**, The University of Hong Kong, Fall 2024
+- **COMP1117 Computer Programming**, The University of Hong Kong, Fall 2023
 
 Honors, Awards & Membership
 ------
