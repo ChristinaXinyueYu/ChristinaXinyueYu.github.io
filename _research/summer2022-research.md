@@ -15,4 +15,4 @@ location: "Online"
 Published Report
 ======
 - [Making the Invisible Visible: Regression and Artificial Neural Networks in Low Light Signal Detection](../research/published_report_ISSI.pdf)
-- [Whole Jornal](../research/whole_journal.pdf)
+- [Whole Journal](../research/whole_journal.pdf)
