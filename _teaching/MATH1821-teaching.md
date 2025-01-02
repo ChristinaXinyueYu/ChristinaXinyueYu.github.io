@@ -28,6 +28,6 @@ Chapter 8: Vectors
 Revision Book
 ======
 - [Revision Book](../teaching/MATH1821 Revision Book.pdf)
-  Last updated on Jan.1, 2025.
+  (Last updated on Jan.1, 2025)
 
 
