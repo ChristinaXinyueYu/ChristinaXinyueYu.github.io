@@ -2,7 +2,7 @@
 title: "Supervised Learning in Low Light Signal Detection Biomedical Experiments"
 collection: research
 type: "Research Assistant"
-permalink: /research/research-summer2022
+permalink: /research/summer2022-research
 venue: "Weizmann Institute of Science"
 date: Aug.2022
 location: "Online"
