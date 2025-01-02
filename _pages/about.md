@@ -36,10 +36,10 @@ Honors, Awards & Membership
   - [Rosita King Ho Scholarship](https://scholar.aas.hku.hk/?action=showonesscheme&ss_id=229&backb=1), outstanding exchange scholarship, 2023
   - Dean’s Honor List, 2021-2022
   - Young Scientist Scheme Member, 2021-2023
-- **Chinese Mathematical Society**
-  - Provincial First Prize in China National High School Mathematics Olympiad, 2020
 - **[Croucher Foundation](https://croucher.org.hk/en/about-us)**
   - Full sponsorship in the International Science Summer Institute hosted in Weizmann Institute of Science (Israel), 2022
+- **Chinese Mathematical Society**
+  - Provincial First Prize in China National High School Mathematics Olympiad, 2020
 
 Work Experience
 ------
@@ -51,7 +51,7 @@ Leadership, Activities & Volunteering Experience
 ------
 - **Student Ambassador**, Admission Office, The University of Hong Kong (Hong Kong SAR), Sept. 2021 -- Present
 - **Student Ambassador**, Faculty of Science, The University of Hong Kong (Hong Kong SAR), Sept. 2021 -- Present
-- **Team Member of AI Prototype Design**, HKU Horizons Office & [Agewhale](https://agewhale.com/en-us), Aug. 2024 -- Dec. 2024
+- **Team Member of AI Prototype Design**, HKU Horizons Office & [Agewhale](https://agewhale.com/en-us) (Hong Kong SAR), Aug. 2024 -- Dec. 2024
 - **Vice President & Leader of Training Department**, [The University Business Consulting Club](https://www.linkedin.com/company/ubcc-hk/), The University of Hong Kong (Hong Kong SAR), Apr. 2023 -- Apr. 2024
 - **Team Member of Audience Favorite**, [PwC’s Metaverse Challenge 2023](https://www.pwchk.com/en/events/metaversechallenge-2023.html) (Hong Kong SAR), July 2023
 - **New Media Group Member and Social Work Volunteer**, [Sunflower Program](https://www.curekids.cn/), [Shenzhen Shiyu Children Foundation](https://www.shiyucapital.com/index.php) (Kunming & Shenzhen, China), July 2018 -- Present
