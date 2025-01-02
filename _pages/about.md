@@ -10,6 +10,8 @@ redirect_from:
 
 I am a final year student from [Department of Mathematics](https://hkumath.hku.hk/web/index.php), [The University of Hong Kong](https://www.hku.hk/). I am fortunate to be supervised by [Prof. Tak Kwong Wong](https://hkumath.hku.hk/~takkwong/) from the Department of Mathematics in HKU for my summer research and final year project research.
 
+You can find my CV here: [Xinyue Yu's CV](../assets/CV.pdf).
+
 Education
 ------
 - **B.Sc.** Major in Mathematics, The University of Hong Kong (Hong Kong SAR), Sept. 2021 - June 2025 (Expected)
