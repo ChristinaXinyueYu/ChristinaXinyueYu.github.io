@@ -16,13 +16,13 @@ location: "Hong Kong SAR"
 
 Course Contents
 ======
-Chapter 1: Basic Concepts
-Chapter 2: Limits and Continuity
-Chapter 3: Differentiation
-Chapter 4: Integration
-Chapter 5: Numerical Methods
-Chapter 6: Differential Equations
-Chapter 7: Matrices
+Chapter 1: Basic Concepts\
+Chapter 2: Limits and Continuity\
+Chapter 3: Differentiation\
+Chapter 4: Integration\
+Chapter 5: Numerical Methods\
+Chapter 6: Differential Equations\
+Chapter 7: Matrices\
 Chapter 8: Vectors
 
 Revision Book
