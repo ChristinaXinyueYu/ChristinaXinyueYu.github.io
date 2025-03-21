@@ -9,9 +9,20 @@ location: "Hong Kong SAR"
 ---
 
 - Course Coordinator: [Dr. LAW, Ka Ho](https://sites.google.com/view/lawkaho/main-page)
+- Hosted biweekly 2-hour revision class for students to review test contents;
+- Supported in weekly assignment class to answer students’ enquiries on course contents and assignment questions; 
+- Answered students’ general enquiries on the course and assisted in other regular teaching work.
 
 Course Contents
 ======
+Chapter 1: Coordinate Geometry\
+Chapter 2: Partial Differentiation\
+Chapter 3: More on Differentiation\
+Chapter 4: Multiple Integrals\
+Chapter 5: Numerical Methods\
+Chapter 6: Differential Equations\
+Chapter 7: Matrices\
+Chapter 8: Vectors
 
 Revision Book
 ======
