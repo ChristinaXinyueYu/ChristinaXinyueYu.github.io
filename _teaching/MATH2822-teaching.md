@@ -27,5 +27,5 @@ Chapter 8: Vectors
 Revision Book
 ======
 - [Revision Book](../teaching/MATH2822 Revision Book.pdf)
-  (Last updated on May 22, 2025)
+  (Last updated on May 21, 2025)
 
