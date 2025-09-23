@@ -8,13 +8,14 @@ redirect_from:
 ---
 
 
-I am a final year student from [Department of Mathematics](https://hkumath.hku.hk/web/index.php), [The University of Hong Kong](https://www.hku.hk/). I am fortunate to be supervised by [Prof. Tak Kwong Wong](https://hkumath.hku.hk/~takkwong/) from the Department of Mathematics in HKU for my summer research and final year project research.
+I am a first year PhD student in [Edwardson School of Industrial Engineering](https://engineering.purdue.edu/IE) at Purdue University. Currently, I am rotating in Human Betterment Analytics Lab (HuBAL), advised by [Prof. Nan Kong](https://engineering.purdue.edu/KongLab/people/Nan_Kong). Before joining Purdue, I graduated from [The University of Hong Kong](https://www.hku.hk/) with a Bechelor degree in science, majoring in Mathematics. I am fortunate to be supervised by [Prof. Tak Kwong Wong](https://hkumath.hku.hk/~takkwong/) during my undergraduate studies.
 
 You can find my CV here: [Xinyue Yu's CV](../assets/CV.pdf).
 
 Education
 ------
-- **B.Sc.** Major in Mathematics, The University of Hong Kong (Hong Kong SAR), Sept. 2021 - June 2025 (Expected)
+- **PhD** Industrial Engineering, Purdue University (West Lafayette, IN, United States), Sept. 2025 - May 2030 (Expected)
+- **B.Sc.** Major in Mathematics, The University of Hong Kong (Hong Kong SAR), Sept. 2021 - June 2025 
 - **Exchange Student**, McGill University (Montreal, Canada), Jan. 2023 - Apr. 2023
 - **High School Diploma** Major in Science, The High School Affiliated to Yunnan Normal University (Kunming, China), Sept. 2018 - July 2021
   
@@ -26,12 +27,14 @@ Research Experience
 
 Teaching Experience
 ------
-- **MATH2822 Mathematical Methods for Actuarial Science II**, The University of Hong Kong, Spring 2025 (assigned)
+- **MATH2822 Mathematical Methods for Actuarial Science II**, The University of Hong Kong, Spring 2025
 - **MATH1821 Mathematical Methods for Actuarial Science I**, The University of Hong Kong, Fall 2024
 - **COMP1117 Computer Programming**, The University of Hong Kong, Fall 2023
 
 Honors, Awards & Membership
 ------
+- **Purdue University**
+  - [Ross Fellowship](https://engineering.purdue.edu/Engr/People/Awards/Graduate/Fellowships/ptRecipientListing?group_id=241975&show_sub_groups=1), 2025 - 2030
 - **The University of Hong Kong**
   - [Lee Shau Kee Scholarship](https://scholar.aas.hku.hk/?action=showonesscheme&ss_id=170&backb=1), full tuition scholarship, 2021-2025
   - [Rosita King Ho Scholarship](https://scholar.aas.hku.hk/?action=showonesscheme&ss_id=229&backb=1), outstanding exchange scholarship, 2023
