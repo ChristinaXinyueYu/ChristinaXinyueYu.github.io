@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ChristinaXinyueYu.github.io/sitemap.xml
