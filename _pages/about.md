@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a first year PhD student in [Edwardson School of Industrial Engineering](https://engineering.purdue.edu/IE) at Purdue University. Currently, I work with [Dr. Nan Kong](https://engineering.purdue.edu/KongLab/people/Nan_Kong) and [Dr. Yuehwern Yih](https://engineering.purdue.edu/SOS/about-yih) on bilevel optimization algorithm design for single-leader multi-follower mixed integer programming problem. Before joining Purdue, I graduated from [The University of Hong Kong](https://www.hku.hk/) with a Bachelor degree in Science, majoring in Mathematics. I am fortunate to be supervised by [Prof. Tak Kwong Wong](https://hkumath.hku.hk/~takkwong/) during my undergraduate studies and research on Pontryagin Maximum Principle and optimal control.
+I am a first year PhD student in [Edwardson School of Industrial Engineering](https://engineering.purdue.edu/IE) at Purdue University. Currently, I work with [Dr. Nan Kong](https://engineering.purdue.edu/KongLab/people/Nan_Kong) and [Dr. Yuehwern Yih](https://engineering.purdue.edu/SOS/about-yih) on bilevel optimization algorithm design for single-leader multi-follower mixed integer programming problem. Before joining Purdue, I graduated from [The University of Hong Kong](https://www.hku.hk/) with a Bachelor degree in Science, majoring in Mathematics. I am fortunate to be supervised by [Dr. Tak Kwong Wong](https://math.szu.edu.cn/info/1092/4756.htm) during my undergraduate studies and research on Pontryagin Maximum Principle and optimal control.
 
 You can find my CV here: [Xinyue Yu's CV](../assets/CV.pdf).
 
@@ -50,19 +50,19 @@ Work Experience
 - **Equity Research Intern**, [Petrel Capital Greater China Fund](https://www.opim.com.hk/en/funds/detail/35/all) (Hong Kong SAR), June 2023 -- Aug. 2023
 - **Data Lake Project Intern**, Yunnan Baiyao Group Pharmaceutical E-Commerce Co., Ltd. (Kunming, China), May 2022 -- July 2022
 
-Leadership, Activities & Volunteering Experience
-------
-- **Student Ambassador**, Admission Office, The University of Hong Kong (Hong Kong SAR), Sept. 2021 -- Present
-- **Student Ambassador**, Faculty of Science, The University of Hong Kong (Hong Kong SAR), Sept. 2021 -- Present
-- **Team Member of AI Prototype Design**, HKU Horizons Office & [Agewhale](https://agewhale.com/en-us) (Hong Kong SAR), Aug. 2024 -- Dec. 2024
-- **Vice President & Leader of Training Department**, [The University Business Consulting Club](https://www.linkedin.com/company/ubcc-hk/), The University of Hong Kong (Hong Kong SAR), Apr. 2023 -- Apr. 2024
-- **Team Member of Audience Favorite**, [PwC’s Metaverse Challenge 2023](https://www.pwchk.com/en/events/metaversechallenge-2023.html) (Hong Kong SAR), July 2023
-- **New Media Group Member and Social Work Volunteer**, [Sunflower Program](https://www.curekids.cn/), [Shenzhen Shiyu Children Foundation](https://www.shiyucapital.com/index.php) (Kunming & Shenzhen, China), July 2018 -- Present
+##Leadership, Activities & Volunteering Experience
+##------
+##- **Student Ambassador**, Admission Office, The University of Hong Kong (Hong Kong SAR), Sept. 2021 -- Present
+##- **Student Ambassador**, Faculty of Science, The University of Hong Kong (Hong Kong SAR), Sept. 2021 -- Present
+##- **Team Member of AI Prototype Design**, HKU Horizons Office & [Agewhale](https://agewhale.com/en-us) (Hong Kong SAR), Aug. 2024 -- Dec. 2024
+##- **Vice President & Leader of Training Department**, [The University Business Consulting Club](https://www.linkedin.com/company/ubcc-hk/), The University of Hong Kong (Hong Kong SAR), Apr. 2023 -- Apr. 2024
+##- **Team Member of Audience Favorite**, [PwC’s Metaverse Challenge 2023](https://www.pwchk.com/en/events/metaversechallenge-2023.html) (Hong Kong SAR), July 2023
+##- **New Media Group Member and Social Work Volunteer**, [Sunflower Program](https://www.curekids.cn/), [Shenzhen Shiyu Children Foundation](https://www.shiyucapital.com/index.php) (Kunming & Shenzhen, China), July 2018 -- Present
 
-Interests & Certificates
-------
-**Interests:** Art curating, movies and TV series, music (R&B, popular), calligraphy, violin
-**Certificates:** CFA ESG Investing Certificate, Society of Actuaries P Exam 09/10
+##Interests & Certificates
+##------
+##**Interests:** Art curating, movies and TV series, music (R&B, popular), calligraphy, violin
+##**Certificates:** CFA ESG Investing Certificate, Society of Actuaries P Exam 09/10
 
 
 
