@@ -21,7 +21,7 @@ repository               : "ChristinaXinyueYu/ChristinaXinyueYu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile.JPG"
+  avatar           : "Profile.png"
   name             : "Xinyue Yu (余欣玥), Christina"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student at Purdue University"
