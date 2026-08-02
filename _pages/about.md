@@ -8,16 +8,15 @@ redirect_from:
 ---
 
 
-I am a first year PhD student in [Edwardson School of Industrial Engineering](https://engineering.purdue.edu/IE) at Purdue University. Currently, I am rotating in Human Betterment Analytics Lab (HuBAL), advised by [Prof. Nan Kong](https://engineering.purdue.edu/KongLab/people/Nan_Kong). Before joining Purdue, I graduated from [The University of Hong Kong](https://www.hku.hk/) with a Bechelor degree in science, majoring in Mathematics. I am fortunate to be supervised by [Prof. Tak Kwong Wong](https://hkumath.hku.hk/~takkwong/) during my undergraduate studies.
+I am a first year PhD student in [Edwardson School of Industrial Engineering](https://engineering.purdue.edu/IE) at Purdue University. Currently, I work with [Dr. Nan Kong](https://engineering.purdue.edu/KongLab/people/Nan_Kong) and [Dr. Yuehwern Yih](https://engineering.purdue.edu/SOS/about-yih) on bilevel optimization algorithm design for single-leader multi-follower mixed integer programming problem. Before joining Purdue, I graduated from [The University of Hong Kong](https://www.hku.hk/) with a Bachelor degree in Science, majoring in Mathematics. I am fortunate to be supervised by [Prof. Tak Kwong Wong](https://hkumath.hku.hk/~takkwong/) during my undergraduate studies and research on Pontryagin Maximum Principle and optimal control.
 
 You can find my CV here: [Xinyue Yu's CV](../assets/CV.pdf).
 
 Education
 ------
-- **PhD** Industrial Engineering, Purdue University (West Lafayette, IN, United States), Sept. 2025 - May 2030 (Expected)
+- **Ph.D.** Industrial Engineering, Purdue University (West Lafayette, IN, U.S.), Sept. 2025 - May 2030 (Expected)
 - **B.Sc.** Major in Mathematics, The University of Hong Kong (Hong Kong SAR), Sept. 2021 - June 2025 
 - **Exchange Student**, McGill University (Montreal, Canada), Jan. 2023 - Apr. 2023
-- **High School Diploma** Major in Science, The High School Affiliated to Yunnan Normal University (Kunming, China), Sept. 2018 - July 2021
   
 Research Experience
 ------
