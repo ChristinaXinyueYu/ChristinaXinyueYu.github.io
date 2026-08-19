@@ -214,7 +214,7 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-  footprint:
+  miscellaneous:
     output: true
     permalink: /:collection/:path/
   teaching:
@@ -269,10 +269,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _footprint
+  # _miscellaneous
   - scope:
       path: ""
-      type: footprint
+      type: miscellaneous
     values:
       layout: single
       author_profile: true
