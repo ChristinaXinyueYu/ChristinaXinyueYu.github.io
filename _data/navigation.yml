@@ -8,8 +8,8 @@ main:
   #- title: "Publications"
   #  url: /publications/
 
-  #- title: "Talks"
-  #  url: /talks/    
+  - title: "Talks"
+    url: /talks/    
 
   - title: "Research"
     url: /research/
@@ -17,7 +17,7 @@ main:
   - title: "Teaching"
     url: /teaching/    
 
-  - title: "Footprint"
+  - title: "Miscellaneous"
     url: /footprint/
     
   #- title: "Portfolio"
