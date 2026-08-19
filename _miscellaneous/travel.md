@@ -4,8 +4,8 @@ collection: miscellaneous
 permalink: /miscellaneous/travel/
 ---
 
-## China
 
+## China
 <div class="flourish-embed flourish-map" data-src="visualisation/26077051">
   <noscript>
     <img src="https://public.flourish.studio/visualisation/26077051/thumbnail"
