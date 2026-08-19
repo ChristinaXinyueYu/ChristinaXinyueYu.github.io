@@ -2,10 +2,27 @@
 title: "Travel Footprint"
 collection: miscellaneous
 permalink: /miscellaneous/travel/
-excerpt: "Places I have visited around the world."
 ---
 
-Here are some places I have visited.
+# Travel
 
-- [China](https://public.flourish.studio/)
-- [World](https://public.flourish.studio/)
+## China
+
+<div class="flourish-embed flourish-map" data-src="visualisation/26077051">
+  <noscript>
+    <img src="https://public.flourish.studio/visualisation/26077051/thumbnail"
+         width="100%"
+         alt="China travel map" />
+  </noscript>
+</div>
+
+## World
+<div class="flourish-embed flourish-map" data-src="visualisation/26102571">
+  <noscript>
+    <img src="https://public.flourish.studio/visualisation/26102571/thumbnail"
+         width="100%"
+         alt="World travel map" />
+  </noscript>
+</div>
+
+<script src="https://public.flourish.studio/resources/embed.js"></script>
