@@ -14,7 +14,7 @@ You can find my CV here: [Xinyue Yu's CV](../assets/CV_Aug 19.pdf).
 
 Education
 ------
-- **Ph.D.** Industrial Engineering, Purdue University (West Lafayette, IN, U.S.), Sept. 2025 - May 2030 (Expected)
+- **Ph.D.** Industrial Engineering, Purdue University (West Lafayette, IN, USA), Sept. 2025 - May 2030 (Expected)
 - **B.Sc.** Major in Mathematics, The University of Hong Kong (Hong Kong SAR), Sept. 2021 - June 2025 
 - **Exchange Student**, McGill University (Montreal, Canada), Jan. 2023 - Apr. 2023
 
