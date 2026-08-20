@@ -6,7 +6,6 @@ excerpt: "Cities that I have visited."
 ---
 
 
-## China
 <div class="flourish-embed flourish-map" data-src="visualisation/26077051">
   <noscript>
     <img src="https://public.flourish.studio/visualisation/26077051/thumbnail"
@@ -15,7 +14,6 @@ excerpt: "Cities that I have visited."
   </noscript>
 </div>
 
-## World
 <div class="flourish-embed flourish-map" data-src="visualisation/26102571">
   <noscript>
     <img src="https://public.flourish.studio/visualisation/26102571/thumbnail"
