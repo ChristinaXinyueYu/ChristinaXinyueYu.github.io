@@ -18,8 +18,8 @@ excerpt: "Music, TV series, movies, and books I have recently enjoyed."
   width="100%" 
   height="152" 
   frameBorder="0" allowfullscreen="" 
-  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" l
-  oading="lazy">
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+  loading="lazy">
 </iframe>
 
 
