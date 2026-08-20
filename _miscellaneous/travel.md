@@ -1,7 +1,8 @@
 ---
-title: "Travel Footprint"
+title: "Footprint"
 collection: miscellaneous
 permalink: /miscellaneous/travel/
+excerpt: "Cities that I have visited."
 ---
 
 
