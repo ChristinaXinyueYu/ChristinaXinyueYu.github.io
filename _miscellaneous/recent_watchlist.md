@@ -1,7 +1,7 @@
 ---
 title: "Recent Watchlist"
 collection: miscellaneous
-permalink: /miscellaneous/recent-watchlist/
+permalink: /miscellaneous/recent_watchlist/
 excerpt: "Music, TV series, movies, and books I have recently enjoyed."
 ---
 
