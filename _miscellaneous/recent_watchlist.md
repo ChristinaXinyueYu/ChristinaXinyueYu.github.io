@@ -8,6 +8,62 @@ excerpt: "Music, TV series, movies, and books I have recently enjoyed."
 
 ## Music
 
+- Sea of Tears 泪海 -- Valen Hsu 许茹芸
+
+<iframe 
+  data-testid="embed-iframe" 
+  style="border-radius:12px" 
+  src="https://open.spotify.com/embed/track/3NXr1tLoDTEjz5V13vbLXG?utm_source=generator&si=057f986a4687416c" 
+  width="100%" 
+  height="152" 
+  frameBorder="0" 
+  allowfullscreen="" 
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+  loading="lazy">
+</iframe>
+
+- Before It's Too Late 趁早 -- A-Mei Chang 张惠妹
+
+<iframe 
+  data-testid="embed-iframe" 
+  style="border-radius:12px" 
+  src="https://open.spotify.com/embed/track/7HBwwxHFdLMVAteFimLndA?utm_source=generator&si=f7307da79b644700" 
+  width="100%" 
+  height="152" 
+  frameBorder="0" 
+  allowfullscreen="" 
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+  loading="lazy">
+</iframe>
+
+- New Everlasting Love 新不了情 -- Jam Hsiao 萧敬腾
+
+<iframe 
+  data-testid="embed-iframe" 
+  style="border-radius:12px" 
+  src="https://open.spotify.com/embed/track/2Kcj2l0qwutVNuZW3qu8ql?utm_source=generator&si=28a6e779b0f542d5" 
+  width="100%" 
+  height="152" 
+  frameBorder="0" 
+  allowfullscreen="" 
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+  loading="lazy">
+</iframe>
+
+- Our Story 属于我们的故事 (Live) -- Zhe Xu 许哲
+
+<iframe 
+  data-testid="embed-iframe" 
+  style="border-radius:12px" 
+  src="https://open.spotify.com/embed/track/6tQX4CmLLS9baRmAU8RSkY?utm_source=generator&si=1df33fd346384420" 
+  width="100%" 
+  height="152" 
+  frameBorder="0" 
+  allowfullscreen="" 
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+  loading="lazy">
+</iframe>
+
 - Suddenly Thinking of You 突然想起你 (live) -- Yoga Lin 林宥嘉
 
 <iframe 
