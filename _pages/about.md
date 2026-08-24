@@ -14,8 +14,8 @@ You can find my CV here: [Xinyue Yu's CV](../assets/CV_Aug 19.pdf).
 
 Education
 ------
-- **Ph.D.** Industrial Engineering, Purdue University (West Lafayette, IN, USA), Sept. 2025 - May 2030 (Expected)
-- **B.Sc.** Major in Mathematics, The University of Hong Kong (Hong Kong SAR), Sept. 2021 - June 2025 
+- **Ph.D.**, Industrial Engineering, Purdue University (West Lafayette, IN, USA), Sept. 2025 - May 2030 (Expected)
+- **B.Sc.**, Major in Mathematics, The University of Hong Kong (Hong Kong SAR), Sept. 2021 - June 2025 
 - **Exchange Student**, McGill University (Montreal, Canada), Jan. 2023 - Apr. 2023
 
 Talks
@@ -52,12 +52,10 @@ Leadership, Activities & Services
 - **Team Member of Audience Favorite**, [PwC’s Metaverse Challenge 2023](https://www.pwchk.com/en/events/metaversechallenge-2023.html), July 2023
 - **New Media Group Member and Social Work Volunteer**, [Sunflower Program](https://www.curekids.cn/), [Shenzhen Shiyu Children Foundation](https://www.shiyucapital.com/index.php) (Kunming & Shenzhen, China), July 2018 -- Present
 
-<!--
-Interests & Certificates
-------
-**Interests:** Art curating, movies and TV series, music (R&B, popular), calligraphy, violin
-**Certificates:** CFA ESG Investing Certificate, Society of Actuaries P Exam 09/10
 
--->
+Interests
+------
+**Interests:** Movies and TV series, music (R&B, popular), calligraphy, violin, architecture, crochet.
+
 
 
