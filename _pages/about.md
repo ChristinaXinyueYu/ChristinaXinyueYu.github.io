@@ -48,6 +48,7 @@ Work Experience
 Leadership, Activities & Services
 ------
 - **Social and Outreach Officer**, INFORMS Student Chapter at Purdue University, Purdue University, Mar. 2026 -- Present
+
 <!--
 - **Student Ambassador**, Admission Office and Faculty of Science, The University of Hong Kong, Sept. 2021 -- July 2025
 - **Vice President & Leader of Training Department**, [The University Business Consulting Club](https://www.linkedin.com/company/ubcc-hk/), The University of Hong Kong, Apr. 2023 -- Apr. 2024
