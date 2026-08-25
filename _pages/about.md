@@ -37,21 +37,23 @@ Honors, Awards & Membership
 - **Chinese Mathematical Society**
   - Provincial First Prize in China National High School Mathematics Olympiad, 2020
 
+<!--
 Work Experience
 ------
 - **Equity Research Intern**, [China International Capital Corporation](https://en.cicc.com/) (Shanghai, China), May 2024 -- Aug. 2024
 - **Equity Research Intern**, [Petrel Capital Greater China Fund](https://www.opim.com.hk/en/funds/detail/35/all) (Hong Kong SAR), June 2023 -- Aug. 2023
 - **Data Lake Project Intern**, Yunnan Baiyao Group Pharmaceutical E-Commerce Co., Ltd. (Kunming, China), May 2022 -- July 2022
-
+-->
 
 Leadership, Activities & Services
 ------
 - **Social and Outreach Officer**, INFORMS Student Chapter at Purdue University, Purdue University, Mar. 2026 -- Present
+<!--
 - **Student Ambassador**, Admission Office and Faculty of Science, The University of Hong Kong, Sept. 2021 -- July 2025
 - **Vice President & Leader of Training Department**, [The University Business Consulting Club](https://www.linkedin.com/company/ubcc-hk/), The University of Hong Kong, Apr. 2023 -- Apr. 2024
 - **Team Member of Audience Favorite**, [PwC’s Metaverse Challenge 2023](https://www.pwchk.com/en/events/metaversechallenge-2023.html), July 2023
 - **New Media Group Member and Social Work Volunteer**, [Sunflower Program](https://www.curekids.cn/), [Shenzhen Shiyu Children Foundation](https://www.shiyucapital.com/index.php) (Kunming & Shenzhen, China), July 2018 -- Present
-
+-->
 
 Interests
 ------
