@@ -1,3 +1,4 @@
+<!--
 ---
 title: "Footprint"
 collection: miscellaneous
@@ -23,3 +24,4 @@ excerpt: "Cities that I have visited."
 </div>
 
 <script src="https://public.flourish.studio/resources/embed.js"></script>
+-->
